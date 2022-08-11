@@ -1,0 +1,1 @@
+This project is aimed to write a crawler framework called lida_scrapy. As its name suggests, this project mimics scrapy. Through this project, I try to understand more about how scrapy works. Good luck.
